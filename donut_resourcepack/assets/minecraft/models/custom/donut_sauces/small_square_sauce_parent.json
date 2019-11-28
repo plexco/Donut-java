@@ -1,0 +1,20 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/donut_sauces/small_square_sauce_template",
+		"particle": "custom/donut_sauces/small_square_sauce_template"
+	},
+	"elements": [
+		{
+			"from": [4.5, 0.1, 4.5],
+			"to": [11.5, 2.1, 11.5],
+			"faces": {
+				"north": {"uv": [0, 7, 7, 9], "texture": "#0"},
+				"east": {"uv": [0, 7, 7, 9], "texture": "#0"},
+				"south": {"uv": [0, 7, 7, 9], "texture": "#0"},
+				"west": {"uv": [0, 7, 7, 9], "texture": "#0"},
+				"up": {"uv": [0, 0, 7, 7], "texture": "#0"}
+			}
+		}
+	]
+}
