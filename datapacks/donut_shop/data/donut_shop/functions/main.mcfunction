@@ -1,1 +1,1 @@
-execute as @e[type=armor_stand,tag=station_main] at @s run function donut_shop:scroller/scroller_main
+function donut_shop:scroller/scroller_main
